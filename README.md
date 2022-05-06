@@ -16,3 +16,7 @@
 # EZ skins
 # [MillhioreF Lite](https://github.com/myangelaku/whitecat-skins/raw/master/Millhiore%20Lite/Millhiore%2BLite.osk?ref=https://githubhelp.com)
 ![](https://skins.osuck.net/uploads/posts/2019-09/1569669684_screenshot6578.jpg)
+# More skins 
+# [1](https://skins.osuck.net/index.php?newsid=2021)
+# [2](https://githubhelp.com/myangelaku/whitecat-skins)
+# [3](https://github.com/Mizaruuu/osu-RyuK-s-super-cool-skins/blob/master/Skins.md)
