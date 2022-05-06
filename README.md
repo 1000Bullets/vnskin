@@ -1,3 +1,4 @@
+# Vremyavniquda's skins
 # DT skins
 # [Rafis Generic DT skin](https://www.dropbox.com/s/mj8snq3xz4rx15y/Rafis%20Generic%20DT%20skin.osk?dl=0)
 ![](https://osu.ppy.sh/ss/14372487/7fb3)
@@ -14,4 +15,4 @@
 ![](https://sun9-44.userapi.com/s/v1/ig2/2VN9DgBoQ9S7qZJTlMYX-TTlX9VYNprtfzZp0dABfTirTAEpdO9u8s4TOOjW9aEF2Gumi6tKWGsS8msqtvrBi_7d.jpg?size=1920x1080&quality=96&type=album)
 # EZ skins
 # [MillhioreF Lite](https://github.com/myangelaku/whitecat-skins/raw/master/Millhiore%20Lite/Millhiore%2BLite.osk?ref=https://githubhelp.com)
-![](https://github.com/myangelaku/whitecat-skins/blob/master/Millhiore%20Lite/Millhiore+Lite.png?raw=true)
+![](https://skins.osuck.net/uploads/posts/2019-09/1569669684_screenshot6578.jpg)
