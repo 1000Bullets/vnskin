@@ -1,5 +1,8 @@
 # Vremyavniquda's skins
+
 # DT skins
+# [Cursor for lovely skin](https://cdn.discordapp.com/attachments/378929035557863424/972247809900306522/2.rar)
+![](https://media.discordapp.net/attachments/378929035557863424/972248142034636820/cursor.png)
 # [Rafis Generic DT skin](https://www.dropbox.com/s/mj8snq3xz4rx15y/Rafis%20Generic%20DT%20skin.osk?dl=0)
 ![](https://osu.ppy.sh/ss/14372487/7fb3)
 # [WhiteCat 2.0 DT](https://drive.google.com/file/d/1pMANippGzkq1T4hkYf8JFh9LGOgNDjOO/view)
